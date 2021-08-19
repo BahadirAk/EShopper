@@ -1,0 +1,40 @@
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.DataAccess\bin\Debug\netcoreapp2.2\EShopper.DataAccess.deps.json
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.DataAccess\bin\Debug\netcoreapp2.2\EShopper.DataAccess.runtimeconfig.json
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.DataAccess\bin\Debug\netcoreapp2.2\EShopper.DataAccess.runtimeconfig.dev.json
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.DataAccess\bin\Debug\netcoreapp2.2\EShopper.DataAccess.dll
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.DataAccess\bin\Debug\netcoreapp2.2\EShopper.DataAccess.pdb
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.DataAccess\obj\Debug\netcoreapp2.2\EShopper.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.DataAccess\obj\Debug\netcoreapp2.2\EShopper.DataAccess.AssemblyInfoInputs.cache
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.DataAccess\obj\Debug\netcoreapp2.2\EShopper.DataAccess.AssemblyInfo.cs
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.DataAccess\obj\Debug\netcoreapp2.2\EShopper.DataAccess.dll
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.DataAccess\obj\Debug\netcoreapp2.2\EShopper.DataAccess.pdb
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.DataAccess\bin\Debug\netcoreapp2.2\EShopper.DataAccess.deps.json
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.DataAccess\bin\Debug\netcoreapp2.2\EShopper.DataAccess.runtimeconfig.json
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.DataAccess\bin\Debug\netcoreapp2.2\EShopper.DataAccess.runtimeconfig.dev.json
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.DataAccess\bin\Debug\netcoreapp2.2\EShopper.DataAccess.dll
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.DataAccess\bin\Debug\netcoreapp2.2\EShopper.DataAccess.pdb
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.DataAccess\obj\Debug\netcoreapp2.2\EShopper.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.DataAccess\obj\Debug\netcoreapp2.2\EShopper.DataAccess.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.DataAccess\obj\Debug\netcoreapp2.2\EShopper.DataAccess.dll
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.DataAccess\obj\Debug\netcoreapp2.2\EShopper.DataAccess.pdb
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.DataAccess\obj\Debug\netcoreapp2.2\EShopper.DataAccess.csprojAssemblyReference.cache
+D:\BTAkademi\Desktop\EShopper\EShopper.DataAccess\bin\Debug\netcoreapp2.2\EShopper.DataAccess.deps.json
+D:\BTAkademi\Desktop\EShopper\EShopper.DataAccess\bin\Debug\netcoreapp2.2\EShopper.DataAccess.runtimeconfig.json
+D:\BTAkademi\Desktop\EShopper\EShopper.DataAccess\bin\Debug\netcoreapp2.2\EShopper.DataAccess.runtimeconfig.dev.json
+D:\BTAkademi\Desktop\EShopper\EShopper.DataAccess\bin\Debug\netcoreapp2.2\EShopper.DataAccess.dll
+D:\BTAkademi\Desktop\EShopper\EShopper.DataAccess\bin\Debug\netcoreapp2.2\EShopper.DataAccess.pdb
+D:\BTAkademi\Desktop\EShopper\EShopper.DataAccess\obj\Debug\netcoreapp2.2\EShopper.DataAccess.csprojAssemblyReference.cache
+D:\BTAkademi\Desktop\EShopper\EShopper.DataAccess\obj\Debug\netcoreapp2.2\EShopper.DataAccess.AssemblyInfoInputs.cache
+D:\BTAkademi\Desktop\EShopper\EShopper.DataAccess\obj\Debug\netcoreapp2.2\EShopper.DataAccess.AssemblyInfo.cs
+D:\BTAkademi\Desktop\EShopper\EShopper.DataAccess\obj\Debug\netcoreapp2.2\EShopper.DataAccess.dll
+D:\BTAkademi\Desktop\EShopper\EShopper.DataAccess\obj\Debug\netcoreapp2.2\EShopper.DataAccess.pdb
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.DataAccess\bin\Debug\netcoreapp2.2\EShopper.DataAccess.deps.json
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.DataAccess\bin\Debug\netcoreapp2.2\EShopper.DataAccess.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.DataAccess\bin\Debug\netcoreapp2.2\EShopper.DataAccess.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.DataAccess\bin\Debug\netcoreapp2.2\EShopper.DataAccess.dll
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.DataAccess\bin\Debug\netcoreapp2.2\EShopper.DataAccess.pdb
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.DataAccess\obj\Debug\netcoreapp2.2\EShopper.DataAccess.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.DataAccess\obj\Debug\netcoreapp2.2\EShopper.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.DataAccess\obj\Debug\netcoreapp2.2\EShopper.DataAccess.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.DataAccess\obj\Debug\netcoreapp2.2\EShopper.DataAccess.dll
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.DataAccess\obj\Debug\netcoreapp2.2\EShopper.DataAccess.pdb

@@ -1,0 +1,194 @@
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.deps.json
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.runtimeconfig.json
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.runtimeconfig.dev.json
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.dll
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.pdb
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.Views.dll
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.Views.pdb
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Business.dll
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Common.dll
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.DataAccess.dll
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Dto.dll
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Business.pdb
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Common.pdb
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Dto.pdb
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.DataAccess.pdb
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.csprojAssemblyReference.cache
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.csproj.CoreCompileInputs.cache
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.RazorAssemblyInfo.cache
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.RazorAssemblyInfo.cs
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.AssemblyInfoInputs.cache
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.AssemblyInfo.cs
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.TagHelpers.input.cache
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.TagHelpers.output.cache
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.RazorCoreGenerate.cache
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\AdminCategory\AddCategoryOrSubCategory.g.cshtml.cs
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\AdminCategory\Index.g.cshtml.cs
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\AdminProduct\AddOrUpdate.g.cshtml.cs
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\AdminProduct\Index.g.cshtml.cs
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Partials\_FeaturedItems.g.cshtml.cs
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Partials\_CssFiles.g.cshtml.cs
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Partials\_Menu.g.cshtml.cs
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Partials\_ScriptFiles.g.cshtml.cs
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.RazorTargetAssemblyInfo.cache
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.RazorTargetAssemblyInfo.cs
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.Views.pdb
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.csproj.CopyComplete
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.dll
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.pdb
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.deps.json
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.runtimeconfig.json
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.runtimeconfig.dev.json
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.dll
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.pdb
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.Views.dll
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.Views.pdb
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Business.dll
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Common.dll
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.DataAccess.dll
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Dto.dll
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Business.pdb
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Common.pdb
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Dto.pdb
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.DataAccess.pdb
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.RazorAssemblyInfo.cache
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.RazorAssemblyInfo.cs
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.TagHelpers.input.cache
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.TagHelpers.output.cache
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.RazorCoreGenerate.cache
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\AdminCategory\Index.cshtml.g.cs
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\AdminProduct\AddOrUpdate.cshtml.g.cs
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\AdminProduct\Index.cshtml.g.cs
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Partials\_FeaturedItems.cshtml.g.cs
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Partials\_CssFiles.cshtml.g.cs
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Partials\_Menu.cshtml.g.cs
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Partials\_ScriptFiles.cshtml.g.cs
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.RazorTargetAssemblyInfo.cache
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.RazorTargetAssemblyInfo.cs
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.Views.pdb
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.csproj.CopyComplete
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.dll
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.pdb
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\AdminCategory\UpdateCategoryOrSubCategory.cshtml.g.cs
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\appsettings.json
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.deps.json
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.runtimeconfig.json
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.runtimeconfig.dev.json
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.dll
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.pdb
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\tr-TR\EShopper.UI.resources.dll
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.Views.dll
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.Views.pdb
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Business.dll
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Common.dll
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.DataAccess.dll
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Dto.dll
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Business.pdb
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Common.pdb
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Dto.pdb
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.DataAccess.pdb
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.csprojAssemblyReference.cache
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.csproj.GenerateResource.cache
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.RazorAssemblyInfo.cache
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.RazorAssemblyInfo.cs
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.AssemblyInfoInputs.cache
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.AssemblyInfo.cs
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\tr-TR\EShopper.UI.resources.dll
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.TagHelpers.input.cache
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.TagHelpers.output.cache
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.RazorCoreGenerate.cache
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\AdminCategory\Index.cshtml.g.cs
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\AdminCategory\UpdateCategoryOrSubCategory.cshtml.g.cs
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\AdminProduct\AddOrUpdate.cshtml.g.cs
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\AdminProduct\Index.cshtml.g.cs
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Partials\_FeaturedItems.cshtml.g.cs
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Partials\_CssFiles.cshtml.g.cs
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Partials\_Menu.cshtml.g.cs
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Partials\_ScriptFiles.cshtml.g.cs
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.RazorTargetAssemblyInfo.cache
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.RazorTargetAssemblyInfo.cs
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.Views.pdb
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.csproj.CopyComplete
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.dll
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.pdb
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\en-US\EShopper.UI.resources.dll
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\en-US\EShopper.UI.resources.dll
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.Resources.SharedResource.en-US.resources
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.Resources.SharedResource.tr-TR.resources
+D:\BTAkademi\Desktop\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Partials\_SelectLanguage.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.deps.json
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.dll
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.pdb
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\en-US\EShopper.UI.resources.dll
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\tr-TR\EShopper.UI.resources.dll
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.Views.dll
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.UI.Views.pdb
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Business.dll
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Common.dll
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.DataAccess.dll
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Dto.dll
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Business.pdb
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Common.pdb
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.Dto.pdb
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\bin\Debug\netcoreapp2.2\EShopper.DataAccess.pdb
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.Resources.SharedResource.en-US.resources
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.Resources.SharedResource.tr-TR.resources
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\en-US\EShopper.UI.resources.dll
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\tr-TR\EShopper.UI.resources.dll
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.TagHelpers.input.cache
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.TagHelpers.output.cache
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.RazorCoreGenerate.cache
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\AdminCategory\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\AdminCategory\UpdateCategoryOrSubCategory.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\AdminProduct\AddOrUpdate.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\AdminProduct\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Partials\_FeaturedItems.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Partials\_CssFiles.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Partials\_Menu.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Partials\_ScriptFiles.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Partials\_SelectLanguage.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.RazorTargetAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.Views.pdb
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.dll
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.UI\obj\Debug\netcoreapp2.2\EShopper.UI.pdb

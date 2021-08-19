@@ -1,0 +1,29 @@
+﻿@using EShopper.Dto
+@model List<ProductDto>
+
+<div class="features_items">
+    <h2 class="title text-center">Günün Ürünleri</h2>
+
+    @foreach (var row in Model)
+    {
+        <div class="col-sm-4">
+            <div class="product-image-wrapper">
+                <div class="single-products">
+                    <div class="productinfo text-center">
+                        <img src="@(string.IsNullOrEmpty(row.DefaultImagePath) ? "/commonImages/emptyUser.jpg" : row.DefaultImagePath)" alt="" />
+                        <h2>@row.Price.ToString("c")</h2>
+                        <p>@row.Name</p>
+                        <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Sepete Ekle</a>
+                    </div>
+                    <div class="product-overlay">
+                        <div class="overlay-content">
+                            <h2>@row.Price.ToString("c")</h2>
+                            <p>@row.Name</p>
+                            <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Sepete Ekle</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

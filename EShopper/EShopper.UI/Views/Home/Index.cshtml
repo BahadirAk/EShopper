@@ -1,0 +1,69 @@
+﻿@using EShopper.Dto
+@using Microsoft.Extensions.Localization
+@using EShopper.UI
+@model Tuple<List<SliderDto>, List<ProductDto>>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@inject IStringLocalizer<SharedResource> Localizer
+
+@Localizer["HelloWorld"]
+
+<section id="slider">
+    <!--slider-->
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div id="slider-carousel" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        @for (int i = 0; i < Model.Item1.Count; i++)
+                        {
+                            if (i == 0)
+                            {
+                                <li data-target="#slider-carousel" data-slide-to="@i" class="active"></li>
+                            }
+                            else
+                            {
+                                <li data-target="#slider-carousel" data-slide-to="@i"></li>
+                            }
+                        }
+                    </ol>
+
+                    <div class="carousel-inner">
+                        @for (int i = 0; i < Model.Item1.Count; i++)
+                        {
+                            var slider = Model.Item1[i];
+
+                            <div class="item @(i == 0 ? "active" : "")">
+                                @*<div class="col-sm-4">
+                                        <h1><span>E</span>-SHOPPER</h1>
+                                        <h2>@slider.Name</h2>
+                                        <p>@slider.Description</p>
+                                    </div>*@
+                                <div class="col-sm-12">
+                                    <img src="@slider.ImagePath" class="girl img-responsive" alt="" />
+                                </div>
+                            </div>
+                        }
+                    </div>
+
+                    <a href="#slider-carousel" class="left control-carousel hidden-xs" data-slide="prev">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a href="#slider-carousel" class="right control-carousel hidden-xs" data-slide="next">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                </div>
+
+            </div>
+
+            <div class="col-sm-12">
+                <br />
+                <br />
+                <partial name="Partials/_FeaturedItems" model="Model.Item2" />
+            </div>
+        </div>
+    </div>
+</section><!--/slider-->

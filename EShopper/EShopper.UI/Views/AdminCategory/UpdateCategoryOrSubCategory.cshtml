@@ -1,0 +1,52 @@
+﻿@using EShopper.Dto
+@model CategoryDto
+
+@{
+    ViewData["Title"] = "UpdateCategoryOrSubCategory";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (Model.CategoryId != null)
+{
+    // Sub Category
+    <form asp-action="UpdateSubCategory" asp-controller="AdminCategory" method="post">
+        <div class="modal-body">
+            <div class="form-group">
+                <select class="form-control" asp-for="CategoryId">
+                    @foreach (var row in (List<CategoryDto>)ViewBag.Categories)
+                    {
+                        <option value="@row.Id">@row.CategoryName</option>
+                    }
+                </select>
+            </div>
+
+            <div class="form-group">
+                <input type="hidden" asp-for="Id" />
+                <label for="exampleFormControlSelect1">Alt Kategori Adı</label>
+                <input type="text" class="form-control" aria-describedby="emailHelp" asp-for="CategoryName" placeholder="Adı Giriniz">
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Güncelle" class="btn btn-primary" />
+            </div>
+
+        </div>
+    </form>
+}
+else
+{
+    // Category
+    <form asp-action="UpdateCategory" asp-controller="AdminCategory" method="post">
+        <div class="modal-body">
+            <div class="form-group">
+                <input type="hidden" asp-for="Id" />
+                <label for="exampleFormControlSelect1">Kategori Adı</label>
+                <input type="text" class="form-control CategoryNameForUpdate" aria-describedby="emailHelp" asp-for="CategoryName" placeholder="Adı Giriniz">
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Güncelle" class="btn btn-primary" />
+            </div>
+        </div>
+    </form>
+}

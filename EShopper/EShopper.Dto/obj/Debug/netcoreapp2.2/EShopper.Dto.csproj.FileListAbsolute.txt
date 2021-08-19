@@ -1,0 +1,34 @@
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\bin\Debug\netcoreapp2.2\EShopper.Dto.deps.json
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\bin\Debug\netcoreapp2.2\EShopper.Dto.dll
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\bin\Debug\netcoreapp2.2\EShopper.Dto.pdb
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\obj\Debug\netcoreapp2.2\EShopper.Dto.csproj.CoreCompileInputs.cache
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\obj\Debug\netcoreapp2.2\EShopper.Dto.AssemblyInfoInputs.cache
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\obj\Debug\netcoreapp2.2\EShopper.Dto.AssemblyInfo.cs
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\obj\Debug\netcoreapp2.2\EShopper.Dto.csproj.CopyComplete
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\obj\Debug\netcoreapp2.2\EShopper.Dto.dll
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\obj\Debug\netcoreapp2.2\EShopper.Dto.pdb
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.Dto\bin\Debug\netcoreapp2.2\EShopper.Dto.deps.json
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.Dto\bin\Debug\netcoreapp2.2\EShopper.Dto.dll
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.Dto\bin\Debug\netcoreapp2.2\EShopper.Dto.pdb
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.Dto\obj\Debug\netcoreapp2.2\EShopper.Dto.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.Dto\obj\Debug\netcoreapp2.2\EShopper.Dto.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.Dto\obj\Debug\netcoreapp2.2\EShopper.Dto.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.Dto\obj\Debug\netcoreapp2.2\EShopper.Dto.dll
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.Dto\obj\Debug\netcoreapp2.2\EShopper.Dto.pdb
+D:\BTAkademi\Desktop\EShopper\EShopper.Dto\bin\Debug\netcoreapp2.2\EShopper.Dto.deps.json
+D:\BTAkademi\Desktop\EShopper\EShopper.Dto\bin\Debug\netcoreapp2.2\EShopper.Dto.dll
+D:\BTAkademi\Desktop\EShopper\EShopper.Dto\bin\Debug\netcoreapp2.2\EShopper.Dto.pdb
+D:\BTAkademi\Desktop\EShopper\EShopper.Dto\obj\Debug\netcoreapp2.2\EShopper.Dto.AssemblyInfoInputs.cache
+D:\BTAkademi\Desktop\EShopper\EShopper.Dto\obj\Debug\netcoreapp2.2\EShopper.Dto.AssemblyInfo.cs
+D:\BTAkademi\Desktop\EShopper\EShopper.Dto\obj\Debug\netcoreapp2.2\EShopper.Dto.dll
+D:\BTAkademi\Desktop\EShopper\EShopper.Dto\obj\Debug\netcoreapp2.2\EShopper.Dto.pdb
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.Dto\bin\Debug\netcoreapp2.2\EShopper.Dto.deps.json
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.Dto\bin\Debug\netcoreapp2.2\EShopper.Dto.dll
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.Dto\bin\Debug\netcoreapp2.2\EShopper.Dto.pdb
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.Dto\obj\Debug\netcoreapp2.2\EShopper.Dto.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.Dto\obj\Debug\netcoreapp2.2\EShopper.Dto.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.Dto\obj\Debug\netcoreapp2.2\EShopper.Dto.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.Dto\obj\Debug\netcoreapp2.2\EShopper.Dto.dll
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.Dto\obj\Debug\netcoreapp2.2\EShopper.Dto.pdb

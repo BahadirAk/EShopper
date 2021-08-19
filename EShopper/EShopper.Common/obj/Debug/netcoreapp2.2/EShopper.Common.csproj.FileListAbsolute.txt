@@ -1,0 +1,49 @@
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\EShopper.Common.deps.json
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\EShopper.Common.dll
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\EShopper.Common.pdb
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\EShopper.Dto.dll
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\EShopper.Dto.pdb
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.csprojAssemblyReference.cache
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.csproj.CoreCompileInputs.cache
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.AssemblyInfoInputs.cache
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.AssemblyInfo.cs
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.csproj.CopyComplete
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.dll
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.pdb
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\EShopper.Common.deps.json
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\EShopper.Common.dll
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\EShopper.Common.pdb
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\EShopper.Dto.dll
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\EShopper.Dto.pdb
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.csproj.CopyComplete
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.dll
+C:\Users\Ahmet\Desktop\Sinif Ornekleri\16 - 2\EShopper\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.pdb
+D:\BTAkademi\Desktop\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\EShopper.Common.deps.json
+D:\BTAkademi\Desktop\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\EShopper.Common.dll
+D:\BTAkademi\Desktop\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\EShopper.Common.pdb
+D:\BTAkademi\Desktop\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\EShopper.Dto.dll
+D:\BTAkademi\Desktop\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\EShopper.Dto.pdb
+D:\BTAkademi\Desktop\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.csprojAssemblyReference.cache
+D:\BTAkademi\Desktop\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.AssemblyInfoInputs.cache
+D:\BTAkademi\Desktop\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.AssemblyInfo.cs
+D:\BTAkademi\Desktop\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.csproj.CopyComplete
+D:\BTAkademi\Desktop\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.dll
+D:\BTAkademi\Desktop\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.pdb
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\EShopper.Common.deps.json
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\EShopper.Common.dll
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\EShopper.Common.pdb
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\EShopper.Dto.dll
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.Common\bin\Debug\netcoreapp2.2\EShopper.Dto.pdb
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.dll
+C:\Users\Lenovo\Desktop\Kurs - Yazılım Uzmanlığı\E-Ticaret Proje\29-Localization\EShopper\EShopper.Common\obj\Debug\netcoreapp2.2\EShopper.Common.pdb

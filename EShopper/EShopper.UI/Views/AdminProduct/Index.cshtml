@@ -1,0 +1,119 @@
+﻿@model EShopper.Dto.Common.PagedResult<EShopper.Dto.ProductDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Scripts
+    {
+    <script type="text/javascript">
+
+        $(".BtnRemoveProduct").click(function () {
+            debugger;
+            var productId = $(this).data("productid");
+
+            $.get("/AdminProduct/DeleteProduct", { productId: productId },
+                function (response) {
+                    alert(response);
+                    location.reload();
+                });
+        });
+
+    </script>
+
+}
+
+@{
+    var urlTemplate = Url.Action() + "?page={0}";
+    var request = ViewContext.HttpContext.Request;
+    foreach (var key in request.Query.Keys)
+    {
+        if (key == "page")
+        {
+            continue;
+        }
+
+        urlTemplate += "&" + key + "=" + request.Query[key];
+    }
+
+    var startIndex = Math.Max(Model.CurrentPage - 5, 1);
+    var finishIndex = Math.Min(Model.CurrentPage + 5, Model.PageCount);
+}
+
+<a href="@Url.Action("AddOrUpdate","AdminProduct")">Ürün Ekle</a>
+<br />
+<br />
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Ürün Adı</th>
+            <th scope="col">Üst Kategori</th>
+            <th scope="col">Alt Kategori</th>
+            <th scope="col">Fiyat</th>
+            <th scope="col">O. Kullanıcı</th>
+            <th scope="col">O. Tarihi</th>
+            <th scope="col">G. Kullanıcı</th>
+            <th scope="col">G. Tarihi</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var row in Model.Results)
+        {
+            <tr>
+                <th scope="row" title="@row.Id">@row.Id.ToString().Substring(0, 4)</th>
+                <td>@row.Name</td>
+                <td>@row.ParentCategoryName</td>
+                <td>@row.SubCategoryName</td>
+                <td>@row.Price</td>
+                <td>@row.CreatedUserName</td>
+                <td>@row.CreatedDate.ToShortDateString()</td>
+                <td>@row.UpdateUserName</td>
+                <td>
+                    @if (row.UpdatedDate.HasValue)
+                    {
+                        @row.UpdatedDate.Value.ToShortDateString()
+                    }
+                </td>
+                <td>
+                    <a href="@Url.Action("AddOrUpdate","AdminProduct",new { productId = row.Id })">Edit</a>
+
+                    <a class="BtnRemoveProduct" data-productId="@row.Id" style="cursor: pointer;">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="row">
+    <div class="col-md-8 col-sm-8 items-info">
+        Items @Model.FirstRowOnPage to @Model.LastRowOnPage of @Model.RowCount total
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-8 col-sm-8">
+        @if (Model.PageCount > 1)
+        {
+            <ul class="pagination pull-right">
+                <li><a href="@urlTemplate.Replace("{0}", "1")">&laquo;</a></li>
+                @for (var i = startIndex; i <= finishIndex; i++)
+                {
+                    @if (i == Model.CurrentPage)
+                    {
+
+                        <li><span>@i</span></li>
+                    }
+                    else
+                    {
+
+                        <li><a href="@urlTemplate.Replace("{0}", i.ToString())">@i</a></li>
+                    }
+                }
+                <li><a href="@urlTemplate.Replace("{0}", Model.PageCount.ToString())">&raquo;</a></li>
+            </ul>
+        }
+    </div>
+</div>

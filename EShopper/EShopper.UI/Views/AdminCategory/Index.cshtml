@@ -1,0 +1,246 @@
+﻿@using EShopper.Dto
+@model CategoryDto
+
+@{
+    ViewData["Title"] = "Kategori İşlemleri";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Scripts {
+    <script type="text/javascript">
+        $(function () {
+
+            var showCategoryClass = $('.ShowCategory');
+            showCategoryClass.hide();
+            var showSubCategoryClass = $('.ShowSubCategory');
+            showSubCategoryClass.hide();
+
+            var btnShowCategory = $('.ButtonShowCategory');
+            btnShowCategory.click(function () {
+                showSubCategoryClass.hide();
+                showCategoryClass.show();
+            });
+
+            var btnShowSubCategory = $('.ButtonShowSubCategory');
+            btnShowSubCategory.click(function () {
+                showCategoryClass.hide();
+                showSubCategoryClass.show();
+            });
+
+            var btnDeleteCategory = $('.BtnDeleteCategory');
+            btnDeleteCategory.click(function () {
+                var categoryId = $(this).data('categoryid');
+                $.get('/AdminCategory/DeleteCategoryOrSubCategory', { id: categoryId }, function () {
+                    var categoryTableRow = $('#CategoryRow_' + categoryId);
+                    categoryTableRow.remove();
+                });
+            });
+
+            var btnDeleteSubCategory = $('.BtnDeleteSubCategory');
+            btnDeleteSubCategory.click(function () {
+                var subCategoryId = $(this).data('subcategoryid');
+                $.get('/AdminCategory/DeleteCategoryOrSubCategory', { id: subCategoryId }, function () {
+                    var subCategoryTableRow = $('#SubCategoryRow_' + subCategoryId);
+                    subCategoryTableRow.remove();
+                });
+            });
+
+        });
+
+        function CategoryAdded(response) {
+            alert(response.responseJSON);
+            location.reload();
+        }
+
+        function SubCategoryAdded(response) {
+            alert(response.responseJSON);
+            location.reload();
+        }
+
+    </script>
+}
+
+<br />
+<br />
+
+<div class="row">
+    <!-- Left Sidebar UI Configuration-->
+    <div class="col-sm-3">
+        <div class="left-sidebar">
+            <h2>İşlemler</h2>
+            <div class="panel-group category-products" id="accordian">
+
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordian" style="cursor:pointer;" class="ButtonShowCategory">
+                                <span class="badge pull-right"><i class="glyphicon glyphicon-chevron-right"></i></span>
+                                Kategoriler
+                            </a>
+                        </h4>
+                    </div>
+                </div>
+
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordian" style="cursor:pointer;" class="ButtonShowSubCategory">
+                                <span class="badge pull-right"><i class="glyphicon glyphicon-chevron-right"></i></span>
+                                Alt Kategoriler
+                            </a>
+                        </h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @* Category Configuration *@
+    <div class="col-sm-9 padding-right ShowCategory">
+        <div>
+            <div style="float:right">
+                <input type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalAddCategory" value="Kategori Ekle" />
+            </div>
+
+            <br />
+            <br />
+
+            <hr />
+
+            <table class="table table-hover CategoryListTable">
+                <thead>
+                    <tr>
+                        <th scope="col">Kategori Adı</th>
+                        <th scope="col">İşlem</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var row in (List<CategoryDto>)ViewBag.Categories)
+                    {
+                        <tr id="@string.Format("CategoryRow_" + row.Id)">
+                            <td>@row.CategoryName</td>
+                            <td>
+
+                                <a href="@Url.Action("UpdateCategoryOrSubCategory","AdminCategory",new { id = row.Id })" class="btn btn-success">Güncelle</a>
+
+                                <button type="button" class="btn btn-danger BtnDeleteCategory" data-categoryId="@row.Id">Sil</button>
+
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Modal For Adding Category -->
+    <div class="modal fade" id="modalAddCategory" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <form method="post" asp-action="AddCategoryOrSubCategory" asp-controller="AdminCategory" data-ajax="true" data-ajax-method="POST" data-ajax-complete="CategoryAdded">
+                    <div class="modal-header">
+                        <label class="modal-title" id="exampleModalLongTitle">Kategori Ekle</label>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <br />
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <label for="exampleFormControlSelect1">Alt Kategori Adı</label>
+                            <input type="text" class="form-control CategoryNameForUpdate" aria-describedby="emailHelp" asp-for="CategoryName" placeholder="Adı Giriniz">
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <input type="button" class="btn btn-warning" data-dismiss="modal" value="Reddet" />
+                        <input type="submit" class="btn btn-success BtnAddCategory" value="Kaydet" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    @* Sub Category Configuration *@
+    <div class="col-sm-9 padding-right ShowSubCategory">
+        <div>
+            <div style="float:right">
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalAddSubCategory">
+                    Alt Kategori Ekle
+                </button>
+            </div>
+
+            <br />
+            <br />
+            <hr />
+
+            @foreach (var row in (List<CategoryDto>)ViewBag.Categories)
+            {
+                <label>@row.CategoryName</label>
+                <table class="table table-bordered table-hover">
+
+                    <thead>
+                        <tr>
+                            <th scope="col">Alt Kategoriler</th>
+                            <th scope="col">İşlem</th>
+                        </tr>
+                    </thead>
+
+                    @foreach (var subRow in (List<CategoryDto>)ViewBag.SubCategories)
+                    {
+                        <tbody>
+                            @if (row.Id == subRow.CategoryId)
+                            {
+                                <tr id="@string.Format("SubCategoryRow_" + subRow.Id)">
+                                    <td>@subRow.CategoryName</td>
+                                    <td style="width:200px">
+
+                                        <a href="@Url.Action("UpdateCategoryOrSubCategory","AdminCategory",new { id = subRow.Id })" class="btn btn-success">Güncelle</a>
+
+                                        <button type="button" class="btn btn-danger BtnDeleteSubCategory" data-subCategoryId="@subRow.Id">Sil</button>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    }
+                </table>
+            }
+        </div>
+    </div>
+
+    <!-- Modal For Adding Sub Category-->
+    <div class="modal fade" id="modalAddSubCategory" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <form method="post" asp-action="AddCategoryOrSubCategory" asp-controller="AdminCategory" data-ajax="true" data-ajax-method="POST" data-ajax-complete="SubCategoryAdded">
+                    <div class="modal-header">
+                        <label class="modal-title" id="exampleModalLongTitle">Alt Kategori Ekle</label>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <br />
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <select class="form-control" asp-for="CategoryId">
+                                <option value="0">Seçiniz</option>
+                                @foreach (var row in (List<CategoryDto>)ViewBag.Categories)
+                                {
+                                    <option value="@row.Id">@row.CategoryName</option>
+                                }
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="exampleFormControlSelect1">Alt Kategori Adı</label>
+                            <input type="text" class="form-control" aria-describedby="emailHelp" asp-for="CategoryName" placeholder="Adı Giriniz">
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <input type="button" class="btn btn-warning" data-dismiss="modal" value="Reddet" />
+                        <input type="submit" class="btn btn-success BtnAddSubCategory" value="Kaydet" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

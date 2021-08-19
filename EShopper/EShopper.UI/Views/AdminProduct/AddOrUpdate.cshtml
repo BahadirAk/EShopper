@@ -1,0 +1,214 @@
+﻿@model EShopper.Dto.Product.ProductCommonDto
+@using Microsoft.Extensions.Localization
+@using EShopper.UI
+@{
+    ViewData["Title"] = "AddOrUpdate";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@inject IStringLocalizer<SharedResource> Localizer
+
+@section Scripts{
+    <script type="text/javascript">
+
+        var formdata = new FormData();
+        $(function () {
+
+            $("#SelectCategory").change(function () {
+                var categoryId = $("#SelectCategory").val();
+                FillSubCategories(categoryId, "");
+            });
+
+            if ($("#Product_Id").val()) {
+                FillSubCategories($("#SelectCategory").val(), $('#HiddenProductCategoryId').val());
+            }
+
+            $("#ProductImage").on("change", function () {
+                debugger;
+                var fileInput = document.getElementById('ProductImage');
+                for (i = 0; i < fileInput.files.length; i++) {
+                    formdata.append("ProductImage", fileInput.files[i]);
+                }
+            });
+
+            $(".btnImageRemove").click(function () {
+                debugger;
+                var imageId = $(this).data("imageid");
+
+                $.get("/AdminProduct/RemoveImage", { imageId: imageId }, function (response) {
+
+                    alert(response);
+                    location.reload();
+
+                });
+            });
+
+            $("#ButtonSaveImages").click(function () {
+                debugger;
+                var productId = $("#Product_Id").val();
+
+                $.ajax({
+                    url: '/AdminProduct/UploadFiles?productId=' + productId,
+                    type: "POST",
+                    contentType: false, // Not to set any content header
+                    processData: false, // Not to process data
+                    data: formdata,
+                    async: false,
+                    success: function (result) {
+                        if (result != "") {
+                            alert(result);
+                            location.reload();
+                        }
+                    },
+                    error: function (err) {
+                        alert(err.statusText);
+                    }
+                });
+
+            });
+
+        });
+
+        function FillSubCategories(categoryId, selectedItemId) {
+            $("#SelectCategory").prop("disabled", true);
+
+            $("#Product_CategoryId").html("");
+
+            $.get("/AdminProduct/GetSubCategories?parentCategoryId=" + categoryId, function (response) {
+
+
+
+                $('#Product_CategoryId').append($('<option>', {
+                    value: "",
+                    text: "Seçiniz"
+                }));
+
+                $.each(response, function (i, item) {
+                    var o = new Option(item.categoryName, item.id);
+                    if (selectedItemId) {
+                        if (selectedItemId == item.id) {
+                            o.selected = true;
+                        }
+                    }
+
+                    $('#Product_CategoryId').append(o);
+
+                    //$('#Product_CategoryId').append($('<option>', {
+                    //    value: item.id,
+                    //    text: item.categoryName,
+                    //    selected  =
+                    //}));
+
+                });
+
+                $("#SelectCategory").prop("disabled", false);
+            });
+        }
+
+        function complete(response) {
+            alert(response.responseJSON);
+            location.href = "/AdminProduct/Index"
+        }
+    </script>
+}
+
+<div class="row" style="margin-top:5px;margin-bottom:50px">
+
+    <div id="exTab3" class="container">
+
+        @if (Model != null && Model.Product != null)
+        {
+            <input type="hidden" id="HiddenProductCategoryId" value="@Model.Product.CategoryId" />
+        }
+        <ul class="nav nav-pills">
+            <li class="active">
+                <a href="#1b" data-toggle="tab">@Localizer["Product_Information"]</a>
+            </li>
+            @if (Model != null && Model.Product != null && Model.Product.Id != Guid.Empty)
+            {
+                <li>
+                    <a href="#2b" data-toggle="tab">Ürün Resimler</a>
+                </li>
+            }
+        </ul>
+
+        <div class="tab-content clearfix">
+            <div class="tab-pane active" id="1b">
+                <form data-ajax-url="@Url.Action("ProductSave","AdminProduct")" method="post" enctype="multipart/form-data" data-ajax="true" data-ajax-method="POST" data-ajax-complete="complete" data-ajax-loading="#loading">
+                    <input type="hidden" asp-for="Product.Id" />
+                    <br /><br />
+                    <div class="form-group">
+                        <label for="exampleFormControlSelect1">Kategori</label>
+                        <select class="form-control" id="SelectCategory">
+                            <option>Seçiniz</option>
+                            @foreach (var row in (List<EShopper.Dto.CategoryDto>)ViewBag.Categories)
+                            {
+                                @if (Model.Product != null && row.Id == Model.Product.ParentCategoryId)
+                                {
+                                    <option value="@row.Id" selected>@row.CategoryName</option>
+                                }
+                                else
+                                {
+                                    <option value="@row.Id">@row.CategoryName</option>
+                                }
+                            }
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleFormControlSelect1">Alt Kategori</label>
+                        <select class="form-control" asp-for="Product.CategoryId"></select>
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Ürün Adı</label>
+                        <input type="text" class="form-control" asp-for="Product.Name" aria-describedby="emailHelp" placeholder="Ad Giriniz">
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Ürün Açıklama</label>
+                        <input type="text" class="form-control" asp-for="Product.Description" aria-describedby="emailHelp" placeholder="Açıklama Giriniz">
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Ürün Fiyat</label>
+
+                        @Html.TextBoxFor(m => m.Product.Price, new { @class = "form-control" })
+                    </div>
+                    <button type="submit" class="btn btn-success col-sm-12">Kaydet</button>
+                </form>
+            </div>
+
+            @if (Model != null && Model.Product != null && Model.Product.Id != Guid.Empty)
+            {
+                <div class="tab-pane" id="2b">
+
+                    <div class="row">
+                        <div class="col-sm-12">
+                            @if (Model.ProductImages != null && Model.ProductImages.Any())
+                            {
+                                @foreach (var row in Model.ProductImages)
+                                {
+                                    <div class="col-sm-3">
+                                        <div class="video-gallery text-center">
+                                            <a href="#">
+                                                <div class="iframe-img" style="width: 300px;height: 350px;">
+                                                    <img src="@row.ImagePath" alt="" />
+                                                </div>
+                                            </a>
+                                            <button type="button" data-imageId="@row.Id" class="btn btn-danger btnImageRemove">Sil</button>
+                                        </div>
+                                    </div>
+                                }
+                            }
+                        </div>
+                    </div>
+                    <br />
+                    <br />
+                    <div class="form-group">
+                        <label>Resim Ekle</label>
+                        <input asp-for="ProductImage" class="form-control" type="file" multiple />
+                    </div>
+
+                    <button type="button" id="ButtonSaveImages" class="btn btn-primary col-sm-12">Resimleri Kaydet</button>
+                </div>
+            }
+        </div>
+    </div>
+</div>

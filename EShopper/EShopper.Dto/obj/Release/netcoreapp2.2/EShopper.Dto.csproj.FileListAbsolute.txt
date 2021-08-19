@@ -1,0 +1,12 @@
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\bin\Release\netcoreapp2.2\EShopper.Dto.deps.json
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\bin\Release\netcoreapp2.2\EShopper.Dto.dll
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\bin\Release\netcoreapp2.2\EShopper.Dto.pdb
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\bin\Release\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\bin\Release\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\obj\Release\netcoreapp2.2\EShopper.Dto.csprojAssemblyReference.cache
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\obj\Release\netcoreapp2.2\EShopper.Dto.csproj.CoreCompileInputs.cache
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\obj\Release\netcoreapp2.2\EShopper.Dto.AssemblyInfoInputs.cache
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\obj\Release\netcoreapp2.2\EShopper.Dto.AssemblyInfo.cs
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\obj\Release\netcoreapp2.2\EShopper.Dto.csproj.CopyComplete
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\obj\Release\netcoreapp2.2\EShopper.Dto.dll
+C:\Users\BTAkademi\source\repos\EShopper\EShopper.Dto\obj\Release\netcoreapp2.2\EShopper.Dto.pdb
